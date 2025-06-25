@@ -20,5 +20,5 @@ Sayısal ve kategorik değişkenler için uygun grafik türleri kullanılarak ve
 
 ## Kullanım
 
-Projede bulunan Jupyter Notebook dosyaları ile adım adım veri analizi ve modelleme süreçleri takip edilebilir.  
+Projede bulunan data klasöründeki veri setleri yüklenip, Jupyter Notebook dosyası ile adım adım veri analizi ve modelleme süreçlerini takip edebilirsiniz.  
 
