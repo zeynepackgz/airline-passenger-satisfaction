@@ -19,7 +19,7 @@ Sayısal değişkenler üzerinde aykırı değerler belirlenir ve görsel/istati
 Sayısal ve kategorik değişkenler için uygun grafik türleri kullanılarak veriler görselleştirilir.
 
 ## Proje videosu
-[Sunum videosunu buradan izleyin]([https://www.youtube.com/watch?v=VIDEO_ID](https://youtu.be/M4rw8nQwFaw))
+[Sunum videosunu buradan izleyin](https://www.youtube.com/watch?v=M4rw8nQwFaw)
 
 
 ## Kullanım
