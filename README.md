@@ -18,6 +18,10 @@ Sayısal değişkenler üzerinde aykırı değerler belirlenir ve görsel/istati
 - Görselleştirme
 Sayısal ve kategorik değişkenler için uygun grafik türleri kullanılarak veriler görselleştirilir.
 
+## Proje videosu
+[Sunum videosunu buradan izleyin]([https://www.youtube.com/watch?v=VIDEO_ID](https://youtu.be/M4rw8nQwFaw))
+
+
 ## Kullanım
 
 Projede bulunan data klasöründeki veri setleri yüklenip, Jupyter Notebook dosyası ile adım adım veri analizi ve modelleme süreçlerini takip edebilirsiniz.  
